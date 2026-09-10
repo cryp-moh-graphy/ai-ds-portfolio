@@ -1,0 +1,65 @@
+EVENT & CONTACT LOG — PARSED RESULTS
+========================================
+
+ALL DATES:
+['03/14/2026', '2026-03-21', '04/02/2026', '2026-04-18', '05/05/2026', '2026-01-09', '2026-02-14', '2026-02-28', '2026-03-05', '2026-03-19', '2026-03-01', '2026-03-15', '2026-04-01', '04/01/2026']
+
+EVENT SCHEDULE DATES (in order):EVENT & CONTACT LOG — PARSED RESULTS
+========================================
+
+ALL DATES:
+['03/14/2026', '2026-03-21', '04/02/2026', '2026-04-18', '05/05/2026', '2026-01-09', '2026-02-14', '2026-02-28', '2026-03-05', '2026-03-19', '2026-03-01', '2026-03-15', '2026-04-01', '04/01/2026']
+
+EVENT SCHEDULE DATES (in order):
+['03/14/2026', '2026-03-21', '04/02/2026', '2026-04-18', '05/05/2026']
+
+PRIVATE IP ADDRESSES:
+['192.168.1.14', '192.168.1.27', '172.16.254.1']
+
+ORDER CODE CHECK:
+Order code present: True
+Order code value: BLB-4471-X
+
+DONORS:
+['R. Whitfield', 'The Garcia Family', 'Anonymous', 'Mei Lin Foundation', 'B. Okafor']
+
+DONATION AMOUNTS:
+['250.00', '1,200.00', '75.50', '3,000.00', '42.25']
+
+DONATION DATES:
+['2026-01-09', '2026-02-14', '2026-02-28', '2026-03-05', '2026-03-19']
+
+URLS:
+['https://www.riversidelibrary.org/events', 'http://riversidelibrary.org/volunteer?ref=2026', 'https://twitter.com/riverside_lib', 'https://www.riversidelibrary.org/news/archive/2025']
+
+ALL CONTACT INFO (emails + phones):
+['sarah.connors84@gmail.com', 'j.oneil@yahoo.com', 'priya_patel99@outlook.com', 'marcus.webb@company.co.uk', 'linh.tran123@mail.edu', 'ksummers@riversidelibrary.org', '(212) 555-0198', '718-555-0234', '(646) 555-0167', '917.555.0142', '(332) 555-0190', '(212) 555-0100']
+
+SUMMARY - USE CASE:
+Regular expressions are widely used for extracting structured information from unstructured text. In healthcare, they help identify patient IDs, appointment dates, and contact details from electronic records. In finance, they locate transaction IDs, account numbers, and payment references for auditing. Cybersecurity analysts use regex to scan server logs for IP addresses, timestamps, and error codes to detect security threats and monitor system activity.
+['03/14/2026', '2026-03-21', '04/02/2026', '2026-04-18', '05/05/2026']
+
+PRIVATE IP ADDRESSES:
+['192.168.1.14', '192.168.1.27', '172.16.254.1']
+
+ORDER CODE CHECK:
+Order code present: True
+Order code value: BLB-4471-X
+
+DONORS:
+['R. Whitfield', 'The Garcia Family', 'Anonymous', 'Mei Lin Foundation', 'B. Okafor']
+
+DONATION AMOUNTS:
+['250.00', '1,200.00', '75.50', '3,000.00', '42.25']
+
+DONATION DATES:
+['2026-01-09', '2026-02-14', '2026-02-28', '2026-03-05', '2026-03-19']
+
+URLS:
+['https://www.riversidelibrary.org/events', 'http://riversidelibrary.org/volunteer?ref=2026', 'https://twitter.com/riverside_lib', 'https://www.riversidelibrary.org/news/archive/2025']
+
+ALL CONTACT INFO (emails + phones):
+['sarah.connors84@gmail.com', 'j.oneil@yahoo.com', 'priya_patel99@outlook.com', 'marcus.webb@company.co.uk', 'linh.tran123@mail.edu', 'ksummers@riversidelibrary.org', '(212) 555-0198', '718-555-0234', '(646) 555-0167', '917.555.0142', '(332) 555-0190', '(212) 555-0100']
+
+SUMMARY - USE CASE:
+Regular expressions are widely used for extracting structured information from unstructured text. In healthcare, they help identify patient IDs, appointment dates, and contact details from electronic records. In finance, they locate transaction IDs, account numbers, and payment references for auditing. Cybersecurity analysts use regex to scan server logs for IP addresses, timestamps, and error codes to detect security threats and monitor system activity.
