@@ -6,6 +6,10 @@
 
 </div>
 
-Designed a normalized relational data model (3NF) in MySQL, writing advanced SQL –– recursive CTEs, window functions, correlated subqueries –– for customer segmentation and revenue analysis; enforced data integrity through key constraints and validation rules, and verified query logic using relational algebra and predicate calculus.
+A relational database design and query project for a simulated online retail company, covering schema design, sample data, and a set of advanced SQL queries in MySQL, along with the equivalent formal expressions in Relational Algebra and Tuple Relational Calculus.
+
+The queries move beyond basic joins and aggregates into recursive CTEs (for modeling a hierarchical product category tree), set-based "for all" logic (customers who ordered every product in a category, products supplied by every regional supplier), and window functions (ranking each customer's top spending category). A few queries required catching and correcting an initial misread of the data –– for example, an early version of the "ordered every Electronics product" query only checked the parent category, but most products actually lived in child categories like Laptops and Smartphones, which required rethinking the query with a recursive category tree instead of a flat match.
+
+The formal language section translates two of the SQL queries into Relational Algebra (including the DIVISION operator) and Tuple Relational Calculus, working through why a plain universal quantifier isn't sufficient for the "all suppliers in a region" case without pairing it with a logical implication.
 
 <sub>[⬅ Back to Main Page](https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/README.md)</sub>
