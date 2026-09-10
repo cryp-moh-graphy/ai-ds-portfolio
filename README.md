@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>AI & Data Science (ML, Analytics, Data Engineering)</h1>
+  <h1>AI & Data Science (NLP, ML, Analytics, Data Engineering)</h1>
 </div>
 
 ## Contents
