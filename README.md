@@ -3,7 +3,7 @@
 </div>
 
 ## Contents
-1. [Online Retail Database System)](#)
+1. [Online Retail Database System](#)
 2. [Structured Data Extraction from Unstructured Text (Python, Regex)](#)
 
 ---
