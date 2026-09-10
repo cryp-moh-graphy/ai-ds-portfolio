@@ -4,7 +4,7 @@
 
 ## Contents
 1. [Online Retail Database System)](#)
-2. [Regex](#)
+2. [Structured Data Extraction from Unstructured Text (Python/Regex)](#)
 
 ---
 
