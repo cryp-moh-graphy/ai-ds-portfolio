@@ -17,7 +17,7 @@ Customer segmentation and revenue analysis; enforced data integrity through key 
 
 ---
 
-## iM-Engr's Personal Assistant
+## Zero-Dependency Client-Side NLP & Conversational Assistant
 
 A zero-dependency, client-side NLP personal assistant.
 
