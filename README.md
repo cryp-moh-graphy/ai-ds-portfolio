@@ -10,7 +10,7 @@
 
 ## Online Retail Database System
 
-Sustomer segmentation and revenue analysis; enforced data integrity through key constraints and validation rules, and verified query logic using relational algebra and predicate calculus.
+Customer segmentation and revenue analysis; enforced data integrity through key constraints and validation rules, and verified query logic using relational algebra and predicate calculus.
 
 *[_View the Full Project_](#)*
 
