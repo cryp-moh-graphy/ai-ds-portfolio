@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>AI & Data Science (NLP, ML, Analytics)</h3>
+  <h3>AI & Data Science (NLP, ML, Analytics, Data Engineering)</h3>
 
   <h1><b>Structured Data Extraction from Unstructured Text (Python, Regex)</b></h1>
 
