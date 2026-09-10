@@ -1,0 +1,57 @@
+CITY LIBRARY EVENT & CONTACT LOG
+==================================
+
+This file contains mixed records from the Riverside Community Library's
+membership and events database.
+
+MEMBER CONTACTS
+----------------
+1. Name: Sarah Connors | Email: sarah.connors84@gmail.com | Phone: (212) 555-0198
+2. Name: James O'Neil | Email: j.oneil@yahoo.com | Phone: 718-555-0234
+3. Name: Priya Patel | Email: priya_patel99@outlook.com | Phone: (646) 555-0167
+4. Name: Marcus Webb | Email: marcus.webb@company.co.uk | Phone: 917.555.0142
+5. Name: Linh Tran | Email: linh.tran123@mail.edu | Phone: (332) 555-0190
+
+EVENT SCHEDULE
+--------------
+- 03/14/2026 : "Intro to Python Workshop" starts at 6:00 PM, Room 204, fee: $15.00
+- 2026-03-21 : "Poetry Reading Night" starts at 7:30 PM, Main Hall, fee: $0.00
+- 04/02/2026 : "Data Science Bootcamp" starts at 9:00 AM, Room 110, fee: $45.50
+- 2026-04-18 : "Children's Story Hour" starts at 10:15 AM, Kids Wing, fee: $0.00
+- 05/05/2026 : "Advanced Excel Clinic" starts at 1:00 PM, Room 204, fee: $20.00
+
+DONATION RECORDS
+-----------------
+Donor: R. Whitfield        Amount: $250.00     Date: 2026-01-09
+Donor: The Garcia Family   Amount: $1,200.00   Date: 2026-02-14
+Donor: Anonymous           Amount: $75.50      Date: 2026-02-28
+Donor: Mei Lin Foundation  Amount: $3,000.00   Date: 2026-03-05
+Donor: B. Okafor           Amount: $42.25      Date: 2026-03-19
+
+WEBSITE & SOCIAL LINKS
+------------------------
+Main site: https://www.riversidelibrary.org/events
+Volunteer signup: http://riversidelibrary.org/volunteer?ref=2026
+Twitter: https://twitter.com/riverside_lib
+Newsletter archive: https://www.riversidelibrary.org/news/archive/2025
+
+IP ACCESS LOG (computer lab terminals)
+----------------------------------------
+192.168.1.14 - terminal 1 - login 09:01
+192.168.1.27 - terminal 2 - login 09:03
+10.0.0.5     - terminal 3 - login 09:12
+172.16.254.1 - terminal 4 - login 09:45
+
+STAFF NOTES
+------------
+Note from J. Alvarez (2026-03-01): "Projector in Room 204 needs a new bulb,
+order code BLB-4471-X, estimated cost $38.99."
+
+Note from K. Summers (2026-03-15): "Reminder: book club meets every
+2nd Tuesday at 5:45 PM. Contact ksummers@riversidelibrary.org with questions
+or call the front desk at (212) 555-0100 ext. 305."
+
+Note from T. Hayes (2026-04-01): "Lost and found has 3 USB drives,
+2 umbrellas, and 1 pair of glasses as of 04/01/2026."
+
+END OF LOG
