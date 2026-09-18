@@ -21,7 +21,7 @@ Customer segmentation and revenue analysis; enforced data integrity through key 
 
 A zero-dependency, client-side NLP personal assistant.
 
-<sub>[View the Full Project](#)</sub>
+<sub>[View the Full Project](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant)</sub>
 
 ---
 
