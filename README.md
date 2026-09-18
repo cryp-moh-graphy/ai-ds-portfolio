@@ -11,7 +11,9 @@
 
 ## Zero-Dependency Client-Side NLP & Conversational Assistant
 
-A zero-dependency, client-side NLP personal assistant.
+Developed [a lightweight, client-side NLP engine](https://im-engr474-sep26sys.netlify.app) designed for offline-first browser execution. Hand-coded the regex tokenization, 
+intent matching, and conversation state machine to eliminate server overhead and third-party API dependencies. Features a 
+responsive UI with real-time text rendering and local storage persistence.
 
 [Live Demo](https://im-engr474-sep26sys.netlify.app)
 
