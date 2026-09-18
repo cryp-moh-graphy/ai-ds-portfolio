@@ -4,24 +4,20 @@
 
   <h1><b>Zero-Dependency Client-Side NLP & Conversational Assistant</b></h1>
 
-  <h3>Deterministic NLP, No LLM</h3>
-
 </div>
 
-Developed [a lightweight, client-side NLP engine](https://im-engr474-sep26sys.netlify.app) designed for offline-first browser execution. The conversational assistant is embedded in [iM-Engr](https://im-engr474-sep26sys.netlify.app), where it answers questions about my work, including engineering, data, design, and writing, without making a single call to an AI API.
+Developed a lightweight, client-side NLP engine designed for offline-first browser execution. The conversational assistant is embedded in **[iM-Engr](https://im-engr474-sep26sys.netlify.app)**, where it answers questions about my work across engineering, data, design, and writing without making a single call to an AI API.
 
-## Why build this *without* an LLM in 2026
+## Why build this without an LLM in 2026
 
-Everyone's shipping an OpenAI/Claude wrapper as their "AI portfolio bot." That's a fine option, but it comes with tradeoffs most people don't mention:
+For a portfolio assistant, I wanted factual accuracy and predictable behavior to take priority over open-ended generation. An LLM-based implementation would be straightforward, but it would also introduce external API costs, network latency, model-provider dependency, and the possibility of generated responses containing details that were never part of my portfolio.
 
-- **Cost** — every question is an API call, forever, at your expense.
-- **Latency** — a round trip to a model provider on every keystroke of curiosity.
-- **Hallucination risk** — an LLM will confidently invent details about *my own resume* if the prompt is loose enough.
-- **Opacity** — you can't fully explain why it said what it said.
-- **Dependency** — if the provider has an outage, or changes pricing, your portfolio's core feature breaks.
+I chose a different approach: a **deterministic retrieval engine** built from scratch in vanilla JavaScript and running entirely in the browser.
 
-I wanted the opposite: something **fast, free to run, fully explainable, and impossible to hallucinate**, because the one thing a hiring manager should never doubt is whether the facts about me are *actually true*. So instead of wiring up an API, I built a small, deterministic retrieval engine from scratch — normalization, typo correction, weighted intent scoring, and context-aware follow-ups — entirely in vanilla JavaScript, entirely client-side.
+The system combines Unicode-aware normalization, scoped fuzzy typo correction, weighted intent scoring, confidence thresholds, and context-aware follow-ups to map questions to responses from an authored knowledge base. Because responses are selected from predefined content rather than generated at runtime, the assistant cannot invent new project or biographical facts.
 
-It's not trying to be a general-purpose chatbot. It's trying to be the most reliable, zero-cost, zero-latency version of "ask me anything about my work" that exists.
+The result is a **zero-backend, zero-API, zero-dependency** conversational interface that runs locally in the browser, with predictable outputs and no recurring inference cost.
+
+It's not intended to be a general-purpose chatbot or a replacement for an LLM. It's a deliberately constrained system built around a specific requirement: **answer questions about my work quickly, transparently, and without generating facts that aren't in the underlying knowledge base.**
 
 <sub>[⬅ Back to Main Page](https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/README.md)</sub>
