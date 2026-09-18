@@ -6,6 +6,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://im-engr474-sep26sys.netlify.app">
+    <img src="./iM-Engr_ConversationalAssistant_GraphicDesign.jpg" width="100%">
+  </a>
+</p>
+
 Developed a lightweight, client-side NLP engine designed for offline-first browser execution. The conversational assistant is embedded in **[iM-Engr](https://im-engr474-sep26sys.netlify.app)**, where it answers questions about my work across engineering, data, design, and writing without making a single call to an AI API.
 
 ## Why build this without an LLM in 2026
