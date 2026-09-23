@@ -9,7 +9,7 @@
 A relational database design and query project for a simulated online retail company, covering schema design, sample data, and a set of advanced SQL queries in MySQL, along with the equivalent formal expressions in Relational Algebra and Tuple Relational Calculus.
 
 <p align="center">
-  <a href="https://im-engr474-sep26sys.netlify.app">
+  <a href="https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/Online%20Retail%20Database%20System/OnlineRetailDB_query_results_screenshots.pdf">
     <img src="./OnlineRetailDB_GraphicDesign.jpg" width="100%">
   </a>
 </p>
