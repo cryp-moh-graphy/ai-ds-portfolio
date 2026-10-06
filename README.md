@@ -4,7 +4,7 @@
 
 ## Contents
 1. [Zero-Dependency Client-Side NLP & Conversational Assistant](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant)
-2. [DataBrief](#)
+2. [DataBrief: Automated Report Analysis Pipeline](#)
 3. [Online Retail Database System](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Online%20Retail%20Database%20System)
 4. [Structured Data Extraction from Unstructured Text (Python, Regex)](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Structured%20Data%20Extraction%20from%20Unstructured%20Text%20(Python%2C%20Regex))
 
