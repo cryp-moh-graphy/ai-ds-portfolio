@@ -4,8 +4,21 @@
 
 ## Contents
 1. [Zero-Dependency Client-Side NLP & Conversational Assistant](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant)
-2. [Online Retail Database System](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Online%20Retail%20Database%20System)
-3. [Structured Data Extraction from Unstructured Text (Python, Regex)](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Structured%20Data%20Extraction%20from%20Unstructured%20Text%20(Python%2C%20Regex))
+2. [DataBrief](#)
+3. [Online Retail Database System](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Online%20Retail%20Database%20System)
+4. [Structured Data Extraction from Unstructured Text (Python, Regex)](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Structured%20Data%20Extraction%20from%20Unstructured%20Text%20(Python%2C%20Regex))
+
+---
+
+--
+
+## DataBrief: Automated Report Analysis Pipeline (JavaScript)
+
+Built a [browser-based analysis tool](https://flourishing-manatee-f61591.netlify.app/) that turns a recurring CSV or Excel report into a cleaned dataset, statistical findings, and a plain-language summary, with all processing done locally in the browser. The pipeline detects identifier and date columns, scores data quality, flags outliers (IQR fences and z-scores), and tests relationships with Pearson correlation and one-way ANOVA. Results are adjusted with Benjamini-Hochberg false-discovery-rate correction, so weak findings are labeled tentative instead of overstated. Charts (correlation heatmap, distributions with box plots, scatter and trend fits) are hand-drawn as SVG, and the summary is template-generated from the computed statistics, with no server, API, or AI model involved.
+
+[Live Demo](https://flourishing-manatee-f61591.netlify.app/)
+
+<sub>[View the Full Project](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/DataBrief%20Automated%20Report%20Analysis%20Pipeline)</sub>
 
 ---
 
